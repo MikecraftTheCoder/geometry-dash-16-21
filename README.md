@@ -1,2 +1,2 @@
 # geometry-dash-16-21
-this is a data url from turbowarp packager
+this is a file from turbowarp packager
